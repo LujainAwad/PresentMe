@@ -12,7 +12,7 @@ struct ContentView: View {
                     .frame(width: 120, height: 120)
                     .clipShape(.circle)
                 
-                Text("Lujain, \(27)")
+                Text("Lujain,Athari \(27)")
                     .font(.title)
                     .fontWeight(.semibold)
                 
